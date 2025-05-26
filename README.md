@@ -12,9 +12,9 @@
 
 - **Frontend:** Next.js, React, Redux, HTML, CSS, JavaScript, TypeScript
 - **Backend:** Nest.js, Node.js, RESTful APIs, TypeORM
-- **Bases de datos:** MariaDB, MongoDB
+- **Bases de datos:** MariaDB, MongoDB, MySQL
 - **DevOps:** NGINX, entornos de pruebas y producción
-- **Otras herramientas:** Git, GitHub, Google Drive API, Gmail API
+- **Otras herramientas:** Git, GitHub, Google Drive API, Gmail API, Python
 
 ---
 
