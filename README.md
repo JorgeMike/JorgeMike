@@ -1,24 +1,58 @@
-# Jorge Miguel Alvarado Reyes
+<h1 align="center">¡Hola, soy Jorge Miguel! 👋</h1>
+<p align="center">Fullstack Developer | Apasionado por la innovación y el aprendizaje continuo</p>
+
+<p align="center">
+  <a href="https://jorgemike.github.io/Portafolio/">
+    <img src="https://img.shields.io/badge/Portafolio-Web-informational?style=flat&logo=google-chrome&color=blue" />
+  </a>
+  <a href="https://www.linkedin.com/in/jorge-alvarado-0bb17b218/">
+    <img src="https://img.shields.io/badge/LinkedIn-jorge--alvarado--0bb17b218-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:alvaradojr2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alvaradojr2001%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JorgeMike&color=blue&style=flat" alt="visitors" />
+</p>
+
+---
+
+## 🎯 Sobre Mí
 
 **Desarrollador Web Fullstack** con más de 2 años de experiencia construyendo aplicaciones robustas con Next.js, Nest.js y TypeScript. Enfocado en optimización, escalabilidad y buenas prácticas. Apasionado por la innovación, el aprendizaje continuo y el trabajo colaborativo en entornos dinámicos.
 
-[![Portfolio](https://img.shields.io/badge/Portafolio-Web-informational?style=flat&logo=google-chrome&color=blue)](https://jorgemike.github.io/Portafolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--alvarado--0bb17b218-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jorge-alvarado-0bb17b218/)
-[![Email](https://img.shields.io/badge/Email-alvaradojr2001%40gmail.com-red?style=flat&logo=gmail)](mailto:alvaradojr2001@gmail.com)
+---
+
+## 🛠️ Herramientas & Tecnologías
+
+### 🌐 Web
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 📊 Datos
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Informational?style=flat&logo=python&logoColor=white)
 
 ---
 
-## Herramientas & Tecnologías
-
-- **Lenguajes:** JavaScript, TypeScript, Python, SQL
-- **Frameworks:** Next.js, Nest.js, Express.js
-- **Bases de Datos:** MariaDB, MongoDB, MySQL
-- **Herramientas:** Git, Docker, NGINX, Postman
-- **Otros:** Web Scraping, Looker Studio, APIs RESTful, Redux
-
----
-
-## Educación
+## 🎓 Educación
 
 - **Licenciatura en Matemáticas Aplicadas y Computación**  
   FES Acatlán (UNAM) · Ago 2020 – May 2025
@@ -27,7 +61,7 @@
 
 ---
 
-## Experiencia Profesional
+## 💼 Experiencia Profesional
 
 ### Encargado del Área de Desarrollo Web – FES Acatlán
 
@@ -45,7 +79,7 @@ Gestiono todo el ciclo de vida del proyecto: configuración y despliegue de serv
 
 ---
 
-## Experiencia Académica
+## 🧑‍💻 Experiencia Académica
 
 ### Desarrollo de chatbot de misProfesores.com (2025)
 
@@ -61,7 +95,7 @@ Desarrollo de un modelo de machine learning en Python para analizar patrones de 
 
 ---
 
-## Honores
+## 🏆 Honores
 
 - **Segundo Lugar – Changemakers Social Challenge 2024** (Noviembre 2024)  
   Categoría: Ciudades y Comunidades Sostenibles – Rural  
@@ -72,7 +106,7 @@ Desarrollo de un modelo de machine learning en Python para analizar patrones de 
 
 ---
 
-## Idiomas
+## 🌎 Idiomas
 
 - **Español:** Nativo
 - **Inglés:** Básico
