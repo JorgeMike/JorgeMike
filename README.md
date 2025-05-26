@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JorgeMike&color=blue&style=flat" alt="visitors" />
-</p>
-
 ---
 
 ## 🎯 Sobre Mí
