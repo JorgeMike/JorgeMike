@@ -1,6 +1,6 @@
-# 👨‍💻 Jorge Miguel Alvarado Reyes
+# Jorge Miguel Alvarado Reyes
 
-**Desarrollador Web Fullstack** con más de 2 años de experiencia creando aplicaciones robustas y escalables. Apasionado por la innovación, la colaboración y el aprendizaje continuo. Actualmente liderando el desarrollo de sistemas académicos en FES Acatlán y desarrollando soluciones fullstack de forma independiente.
+**Desarrollador Web Fullstack** con más de 2 años de experiencia construyendo aplicaciones robustas con Next.js, Nest.js y TypeScript. Enfocado en optimización, escalabilidad y buenas prácticas. Apasionado por la innovación, el aprendizaje continuo y el trabajo colaborativo en entornos dinámicos.
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-Web-informational?style=flat&logo=google-chrome&color=blue)](https://jorgemike.github.io/Portafolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--alvarado--0bb17b218-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jorge-alvarado-0bb17b218/)
@@ -8,66 +8,71 @@
 
 ---
 
-## 🚀 Tecnologías
+## Herramientas & Tecnologías
 
-- **Frontend:** Next.js, React, Redux, HTML, CSS, JavaScript, TypeScript
-- **Backend:** Nest.js, Node.js, RESTful APIs, TypeORM
-- **Bases de datos:** MariaDB, MongoDB, MySQL
-- **DevOps:** NGINX, entornos de pruebas y producción
-- **Otras herramientas:** Git, GitHub, Google Drive API, Gmail API, Python
-
----
-
-## 🧠 Experiencia
-
-### 🔹 *FES Acatlán - UNAM*  
-**Encargado del Área de Desarrollo Web** (2023 - presente)  
-- Sistemas académicos como evaluación docente, consulta institucional, CEDETEC y votaciones.
-- Desarrollo con stack completo: Next.js + Nest.js.
-- Docente de desarrollo frontend.
-
-### 🔹 *Desarrollador Independiente* (2024 - presente)  
-- Sistema de gestión de citas para concesionaria.
-- Implementación fullstack con MongoDB y despliegue con NGINX.
+- **Lenguajes:** JavaScript, TypeScript, Python, SQL
+- **Frameworks:** Next.js, Nest.js, Express.js
+- **Bases de Datos:** MariaDB, MongoDB, MySQL
+- **Herramientas:** Git, Docker, NGINX, Postman
+- **Otros:** Web Scraping, Looker Studio, APIs RESTful, Redux
 
 ---
 
-## 📊 Proyectos Académicos
+## Educación
 
-- **Modelo de predicción de afluencia en transporte público:**  
-  Machine learning con Python para Metrobús, Metro y Trolebús.
-- **Web Scraping de datos financieros:**  
-  Scraping con BeautifulSoup + Dashboard en Looker Studio.
-
----
-
-## 🏆 Reconocimientos
-
-- 🥈 *2° Lugar - Changemakers Social Challenge 2024*  
-  App Kachi: preservación de lenguas indígenas.
-- 💡 *Hackathon Swift Change Makers 2024*  
-  Desarrollo de app para desafío empresarial.
+- **Licenciatura en Matemáticas Aplicadas y Computación**  
+  FES Acatlán (UNAM) · Ago 2020 – May 2025
+- **Técnico Auxiliar en Java**  
+  COLBACH · Ago 2016 – Jun 2019
 
 ---
 
-## 🎓 Formación
+## Experiencia Profesional
 
-- **Lic. en Matemáticas Aplicadas y Computación**  
-  FES Acatlán - UNAM (2020 - presente)
-- **Técnico en Java**  
-  COLBACH (2016 - 2019)
+### Encargado del Área de Desarrollo Web – FES Acatlán
+
+1/2023 – Presente  
+Lidero el desarrollo de aplicaciones web académicas, desde la definición de requisitos con docentes y áreas administrativas hasta el despliegue en producción. Diseño arquitecturas escalables y modulares con Next.js y Nest.js, implementando buenas prácticas de código.
+
+Coordino y mentorizo a desarrolladores y alumnos, gestionando tareas, revisando pull requests y promoviendo metodologías ágiles. Además, facilito talleres y capacitación en tecnologías frontend y backend, garantizando la transferencia de conocimientos y la mejora continua del equipo.
+
+### Desarrollador Independiente
+
+1/2024 – Presente  
+Diseño e implemento soluciones web a medida, como un sistema de gestión de citas para concesionarias, partiendo de los requisitos del cliente y optimizando la experiencia de usuario y la lógica de negocio.
+
+Gestiono todo el ciclo de vida del proyecto: configuración y despliegue de servidores con NGINX, establecimiento de entornos de prueba y producción, integración continua y comunicación constante con el cliente. Esta interacción me ha permitido fortalecer mis habilidades blandas en atención al cliente, negociación de requerimientos y presentación de avances.
 
 ---
 
-## 🌐 Idiomas
+## Experiencia Académica
 
-- Español: Nativo  
-- Inglés: Básico
+### Desarrollo de chatbot de misProfesores.com (2025)
+
+Diseñé e implementé un chatbot que parte de un proceso de web scraping de opiniones de estudiantes, seguido de limpieza y normalización de datos, y su almacenamiento en Google Cloud Platform. Para el análisis y la visualización de la información, construí un dashboard interactivo en Looker Studio. La lógica del chatbot se expone a través de una API REST desarrollada en Python con FastAPI, y el frontend en React consume estos endpoints para enviar consultas y mostrar resúmenes generados por la API de texto generativo Gemini de Google, ofreciendo respuestas naturales basadas en las opiniones recopiladas.
+
+### Web Scraping de Yahoo Finanzas con Python y visualización de datos (2025)
+
+Desarrollo de un script en Python con BeautifulSoup para extraer datos financieros de empresas. Implementación de modos de búsqueda individual y masivo, y automatización del análisis con un dashboard en Looker Studio para visualizar información histórica de manera interactiva.
+
+### Modelo predictivo de afluencia en transporte público (2025)
+
+Desarrollo de un modelo de machine learning en Python para analizar patrones de afluencia en Metrobús, Metro y Trolebús. Aplicación de técnicas de preprocesamiento de datos, análisis exploratorio y selección de características para mejorar la precisión del modelo.
 
 ---
 
-📫 **Contacto:**  
-📧 alvaradojr2001@gmail.com  
-📱 +52 55 4695 1819  
-🌐 [Portafolio](https://jorgemike.github.io/Portafolio/)  
-🐱 [GitHub](https://github.com/JorgeMike)
+## Honores
+
+- **Segundo Lugar – Changemakers Social Challenge 2024** (Noviembre 2024)  
+  Categoría: Ciudades y Comunidades Sostenibles – Rural  
+  Proyecto “Aplicación Kachi”: sistema de aprendizaje continuo para preservar lenguas indígenas y cultura.
+
+- **Participante – Hackathon 2024** (Abril 2024)  
+  Swift Change Makers – Competencia Nacional, Monterrey. Desarrollo de una app para resolver un reto planteado por patrocinadores.
+
+---
+
+## Idiomas
+
+- **Español:** Nativo
+- **Inglés:** Básico
