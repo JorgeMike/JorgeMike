@@ -2,7 +2,7 @@
 <p align="center">Fullstack Developer | Apasionado por la innovación y el aprendizaje continuo</p>
 
 <p align="center">
-  <a href="https://jorgemike.github.io/Portafolio/">
+  <a href="https://jorgemike.github.io/PortafolioV2/">
     <img src="https://img.shields.io/badge/Portafolio-Web-informational?style=flat&logo=google-chrome&color=blue" />
   </a>
   <a href="https://www.linkedin.com/in/jorge-alvarado-0bb17b218/">
@@ -17,7 +17,7 @@
 
 ## 🎯 Sobre Mí
 
-**Desarrollador Web Fullstack** con más de 2 años de experiencia construyendo aplicaciones robustas con Next.js, Nest.js y TypeScript. Enfocado en optimización, escalabilidad y buenas prácticas. Apasionado por la innovación, el aprendizaje continuo y el trabajo colaborativo en entornos dinámicos.
+**Desarrollador Web Fullstack** con más de 3 años de experiencia construyendo aplicaciones robustas con Next.js, Nest.js y TypeScript. Enfocado en optimización, escalabilidad y buenas prácticas. Apasionado por la innovación, el aprendizaje continuo y el trabajo colaborativo en entornos dinámicos.
 
 ---
 
