@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Jorge Miguel! 👋</h1>
+<h1 align="center">¡Hola, soy Mike! 👋</h1>
 <p align="center">Fullstack Developer | Apasionado por la innovación y el aprendizaje continuo</p>
 
 <p align="center">
