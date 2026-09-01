@@ -17,7 +17,7 @@
 
 ## 🎯 Sobre Mí
 
-Desarrollador Fullstack con **más de 4 años de experiencia**. Construyo aplicaciones de extremo a extremo con React, Next.js y TypeScript en el frontend, y Node.js, NestJS y FastAPI en el backend, sobre AWS y Google Cloud. Hoy en **Content-Oh!**, integrando IA generativa en producto.
+Desarrollador Fullstack con **más de 4 años de experiencia**. Construyo aplicaciones de extremo a extremo con React, Vite, Next.js y TypeScript en el frontend, y Node.js, NestJS y FastAPI en el backend, sobre AWS y Google Cloud. Hoy en **Content-Oh!**, integrando IA generativa en producto.
 
 ---
 
